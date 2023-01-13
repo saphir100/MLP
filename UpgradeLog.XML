@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Approximation">
+</Property><Property Name="Solution File" Value="I:\proj\neuro\neuro_src\Samples\Neuro\Back Propagation\Approximation\Approximation.sln">
+</Property><Property Name="Date" Value="Friday, July 01, 2011">
+</Property><Property Name="Time" Value="21:04 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Approximation.sln" Description="File successfully backed up as I:\proj\neuro\neuro_src\Samples\Neuro\Back Propagation\Approximation\Backup\Approximation.sln">
+</Event><Event ErrorLevel="0" Project="Approximation" Source="Approximation.csproj" Description="Project file successfully backed up as I:\proj\neuro\neuro_src\Samples\Neuro\Back Propagation\Approximation\Backup\Approximation.csproj">
+</Event><Event ErrorLevel="0" Project="Approximation" Source="AssemblyInfo.cs" Description="File successfully backed up as I:\proj\neuro\neuro_src\Samples\Neuro\Back Propagation\Approximation\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Approximation" Source="MainForm.cs" Description="File successfully backed up as I:\proj\neuro\neuro_src\Samples\Neuro\Back Propagation\Approximation\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="Approximation" Source="App.ico" Description="File successfully backed up as I:\proj\neuro\neuro_src\Samples\Neuro\Back Propagation\Approximation\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="Approximation" Source="MainForm.resx" Description="File successfully backed up as I:\proj\neuro\neuro_src\Samples\Neuro\Back Propagation\Approximation\Backup\MainForm.resx">
+</Event><Event ErrorLevel="1" Project="Approximation" Source="Approximation.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Approximation" Source="Approximation.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Approximation" Source="Approximation.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Approximation.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Approximation.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Approximation" Source="Approximation.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
